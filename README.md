@@ -1,4 +1,6 @@
-This is the code repo for the Ethereum Developer meetup on the 25th of July.
+# Ethereum Developer meetup code repo - 8th of August.
+
+## Decentralized Identity Application using uPort/React Truffle Box.
 
 
 In this meetup we are going to look at truffle boxes and uPort.
