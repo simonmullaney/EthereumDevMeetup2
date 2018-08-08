@@ -88,7 +88,7 @@ uport.requestCredentials({
 
 Once al the changes have been made, you can run the app by running the following command in the root of your project directory:
 
-`npm run build`
+`npm run start`
 
 Then navigate to http://localhost:3000/ to view your app. You will be able to log into your app by signing the QR code with the application on your smart phone.
 
